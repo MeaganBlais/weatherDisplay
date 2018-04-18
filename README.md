@@ -4,13 +4,15 @@ Boilerplate cloned from [Stephen Grider - ReduxSimpleStarter](https://github.com
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ## Dependencies
-Weather API found at: http://openweathermap.org/forecast5
-Libraries:
-[axios](https://github.com/axios/axios) (makes Ajax requests from the browser)
-[react-sparklines](https://github.com/borisyankov/react-sparklines) - makes charts
-[lodash](https://lodash.com/) - simplify math functions
-Middleware: 
-[redux-promise](https://www.npmjs.com/package/redux-promise) - automatically detected promise through payload
+- Weather API found at: http://openweathermap.org/forecast5
+
+- Libraries:
+-- [axios](https://github.com/axios/axios) (makes Ajax requests from the browser)
+-- [react-sparklines](https://github.com/borisyankov/react-sparklines) - makes charts
+-- [lodash](https://lodash.com/) - simplify math functions
+
+- Middleware: 
+-- [redux-promise](https://www.npmjs.com/package/redux-promise) - automatically detected promise through payload
 
 ## Getting Started
 
